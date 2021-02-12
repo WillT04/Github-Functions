@@ -5,4 +5,3 @@ function Open-Github {
 }
 
 Set-Alias -Name github -Value Open-Github
-Set-Alias -Name gh -Value Open-Github

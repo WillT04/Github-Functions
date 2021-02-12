@@ -12,4 +12,3 @@
 # Aliases
 ### Open-Github:
 * github
-* gh
